@@ -43,7 +43,6 @@ int main()
             {
                 max = a[i][j];
                 c[i] = a[i][j];
-                a[i][j] = b[i];
                 strmax = j;
             }
         }
